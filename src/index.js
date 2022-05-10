@@ -7,7 +7,7 @@ ReactDOM.render(
   <div>
       <Helmet>
     <title>Sorting Visualizer</title>
-    <link rel="shortcut icon" type="image/png" href="favicon.png"/>
+    <link rel="shortcut icon" type="image/png" href="favicon.png?"/>
   </Helmet>
     <SortingVisualizer/>
   </div>
