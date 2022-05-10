@@ -95,7 +95,7 @@ input:focus,
 select:focus,
 textarea:focus,
 button:focus {
-    outline-color: red;
+    outline-color: #999;
     outline-style: solid;
     outline-width: 2px;
 }
