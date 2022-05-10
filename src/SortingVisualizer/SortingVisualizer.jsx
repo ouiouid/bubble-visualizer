@@ -14,7 +14,7 @@ export default class SortingVisualizer extends React.Component {
         super(props);
 
         this.state = {
-            size: 16,
+            size: 64,
             array: [],
             color: [],
             changes: [],
