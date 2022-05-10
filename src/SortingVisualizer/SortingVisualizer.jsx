@@ -1,10 +1,11 @@
 import React from 'react';
+
 import './SortingVisualizer.css';
 import { bubbleSort } from './SortingAlgorithms';
 
 // class component - used state 
 export default class SortingVisualizer extends React.Component {
-    
+
     
     BAR_COLOR = '#FFF';
     SWAP_COLOR = '#BBB';
@@ -126,6 +127,7 @@ export default class SortingVisualizer extends React.Component {
     render() {
         const array = this.state.array;
         return (
+
             <div className='container'>
 
                 <div className='menu'>
