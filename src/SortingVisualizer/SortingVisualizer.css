@@ -83,7 +83,7 @@ button, input {
     color: #222;
 }
 button:hover  { color:#999; }
-button:active { color:red; }
+button:active { color:#999; }
 
 .smallbtn {
     width:25px
